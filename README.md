@@ -16,7 +16,7 @@ This web application utilizes machine learning techniques to analyze and visuali
 - Machine Learning Models: Implements regression, classification, or clustering algorithms to analyze happiness data and make predictions.
 - Visualization: Presents interactive visualizations to showcase the results and insights obtained from the machine learning models.
 - Web Application: Builds a user-friendly web interface for users to interact with the analyzed happiness data and explore machine learning predictions.
-Usage
+Usage jhbhbkbklnkjnlnkjnjlnjnkjlnlnkj
 
 Upload Data: Provide world happiness data in a compatible format via the web application interface.
 Perform Analysis: Choose the desired machine learning algorithm and initiate the analysis process.
