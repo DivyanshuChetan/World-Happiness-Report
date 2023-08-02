@@ -26,7 +26,7 @@ Disclaimer
 
 The machine learning models and predictions in this application are based on historical data and should be interpreted with caution. The goal is to provide an exploratory tool rather than definitive predictions of happiness levels.
 
-Acknowledgements
+Acknowledgements: Here are some of the acknowledgements:-
 
 The world happiness data used in this project is sourced from [kaggle.com].
 
